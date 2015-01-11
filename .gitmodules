@@ -1,0 +1,3 @@
+[submodule "putio"]
+	path = putio
+	url = https://github.com/dinofizz/putio.py.git
